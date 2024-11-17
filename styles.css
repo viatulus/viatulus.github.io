@@ -1,3 +1,14 @@
 html {
   background-image: url("so-white.png");
 }
+
+header {
+  background-color: burlywood;
+  border: 10px black
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: italic;
+}
