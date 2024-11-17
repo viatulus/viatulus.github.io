@@ -5,12 +5,13 @@ html {
 header {
   background-color: burlywood;
   border: 10px black;
+  padding: 1px;
   text-align: center;
   font-weight: bold;
 }
 
 h2 {
-  font-weight: italic;
+  font-style: italic;
 }
 
 .present-page {
