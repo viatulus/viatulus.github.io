@@ -10,6 +10,11 @@ header {
   font-weight: bold;
 }
 
+nav ul {
+  display: inline-block;
+  margin-right: 10px;
+}
+
 h2 {
   font-style: italic;
 }
